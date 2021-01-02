@@ -12,8 +12,6 @@ Or use with appropriate jumper Wires with a breadboard.
 
 The JTAG is designed in today's standard 2.54mm pitch as a simple IDC female connector. 
 
-Translated with www.DeepL.com/Translator (free version)
-
 
 
 # Building
@@ -26,7 +24,7 @@ The 5V can be supplied at the lower connector strip. Additionally, 3.3V can also
 
 The circuit board viewed from above:
 
-![](https://github.com/DL2DW/DELA-EPROMMER-II/blob/main/Images/XC95144XL-Devboard-3D.jpg)
+![](https://github.com/DL2DW/XC95144XL-Dev-Board/blob/main/Images/XC95144XL-Devboard-3D.jpg)
 
 
 
