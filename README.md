@@ -49,6 +49,14 @@ Here is the list of components needed. I have chosen the manufacturers as exampl
 
 
 
+# PCB
+
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/XC95144XL_Dev_Board.html), or you can create it yourself from the Gerber files available here.
+
+[![PCBWay](https://www.pcbway.com/project/shareproject/XC95144XL_Dev_Board.html)
+
+
+
 If you liked my project, I would be very happy about a small coffee donation.
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R62T6RN)
